@@ -6,7 +6,7 @@
   "dependencies": {
     "ethers": "6.17.0",
     "viem": "2.55.4",
-    "@red-cup-engineering/http-engineering-services-section": "workspace:*"
+    "@red-cup-engineering/http-services-section": "workspace:*"
   },
   "scripts": {
     "check": "node --check src/paymaster-service.mjs && node --check scripts/server.mjs",
